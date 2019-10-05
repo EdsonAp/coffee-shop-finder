@@ -1,0 +1,55 @@
+
+body{
+    margin: 0px;
+    height: 0px;
+    background-image: url('/static/img/cafe.png');
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', 'Sans';
+    
+}
+
+#container{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 80%;  
+    height: 1300px;
+    
+}
+
+h1{
+    color: rgb(238, 54, 54);
+    font-size: 90px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.boxes{
+  margin: auto;
+  vertical-align: top;
+  padding: 10%;
+  position: relative;
+}
+
+.regis{
+    display: inline-block;
+    font-size: 20px;
+    background-color: darkgray;
+    padding: 10px;
+
+}
+
+.button{
+    width: 100%;
+    font-size: 25px;
+}
+
+.login{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    background-color: rgb(194, 188, 188);
+    height: auto;
+    padding: 10px;
+
+}

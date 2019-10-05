@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    height: 0px;
+    background-image: url('/static/img/cafe.png');
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', 'Sans';
+}
+
+.container{
+    background-color: white;
+}
+.top{
+    padding: 15px;
+    background-color: rgb(238, 54, 54);
+    text-align: center;
+}
+.greeting{
+    display: inline-block;
+    color: white;
+}
+
+.boton{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+    color: rgb(51, 51, 51);
+    padding: 25px;
+}
+
+.text{
+    font-size: 15px;
+}
+
+.searchtxt{
+    font-size: 20px;
+}
+.search{
+    text-align: center;
+    padding: 15px;
+}
+.box{
+    width: 50%;
+    height: 41px;
+    border-radius: 5px;
+}
+.overflow-auto{
+    background: rgba(255, 255, 255, 0.267);
+    text-align: center;
+}
+.results{
+    font-size: 30px;
+    font-weight: 200px;
+}
+.shop{
+    color: rgb(238, 54, 54);
+    
+}
+
